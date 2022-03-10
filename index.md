@@ -4,6 +4,17 @@ Hello, welcome to my CV page👋
 ### 📔 Profile
 ![hided_ver](https://user-images.githubusercontent.com/97023263/156909911-5e45f192-47d1-4e41-83f5-932864e5eb16.jpg)
 
+<br/><br/><br/><br/><br/>
+
+### 🔎 More Things About Me
+#### 👀 My MBTI: ESFP
+![ESFP](https://user-images.githubusercontent.com/97023263/157590927-6ef446da-6dc9-4a19-9b22-99a51884335b.png)
+![esfpBingo](https://user-images.githubusercontent.com/97023263/157591034-4bacd6f6-afa3-47d5-b6a3-86d215c17316.png)
+#### 🤸‍♀️ My Hobbies
+Gymnastics 👉 Check out my [instagram](https://www.instagram.com/2019.ewha/)
+
+
+<br/><br/><br/><br/><br/>
 
 ### 🏫 Education
 ```
